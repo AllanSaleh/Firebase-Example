@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060505583578",
+    "firebase_url": "https://fir-workshop-393bc.firebaseio.com",
+    "project_id": "fir-workshop-393bc",
+    "storage_bucket": "fir-workshop-393bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060505583578:android:ecb0e2bd7e8890dc778ae3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060505583578-vc4bf24tf6sgsq81kg8dotomju25s93h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "09df9b1e83e57fee69099376a90611f3d028223f"
+          }
+        },
+        {
+          "client_id": "1060505583578-0g3bpkk8d1dl3kvrd1qiculghrp2b0l8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmls6-PT8Q_P6gte0b0TkoBrWZSMrIkUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060505583578-0g3bpkk8d1dl3kvrd1qiculghrp2b0l8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
